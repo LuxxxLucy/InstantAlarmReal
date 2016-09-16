@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sleeppp!</string>
+    <string name="action_settings">学习使我快乐，我热爱学习</string>
+    <string name="correct_for_debug">correct!</string>
+    <string name="not_correct_for_debug">not correct!</string>
+    <string name="dialog_text">time would be</string>
+    <string name="btn_finish_dialog_label">cancel </string>
+    <string name="title_activity_activity_tab">Activity_tab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_welcome">学习使我快乐，我热爱学习</string>
+</resources>
